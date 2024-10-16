@@ -1,5 +1,5 @@
-#*과제1*  
-##2020732048 안진빈  
+# *과제1*  
+## 2020732048 안진빈  
 
 ![image](https://github.com/user-attachments/assets/5482b6b1-0fb3-4776-a7ad-2021b85b9c14)  
 
